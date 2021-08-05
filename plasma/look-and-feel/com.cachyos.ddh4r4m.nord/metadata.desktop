@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=A simple Dark Plasma Theme
+Name=CachyOS-Nord
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Dharam Dhurandhar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=rkstrdee@gmail.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=com.cachyos.ddh4r4m.nord
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=https://wiki.cachyos.org/
+X-Plasma-MainScript=defaults
