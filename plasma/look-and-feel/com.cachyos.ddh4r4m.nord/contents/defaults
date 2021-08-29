@@ -5,7 +5,7 @@ cursorTheme=breeze_cursors
 ColorScheme=CachyOSNord
 
 [kdeglobals][Icons]
-Theme=Papirus-Dark
+Theme=char-white
 
 [kdeglobals][KDE]
 widgetStyle=breeze
