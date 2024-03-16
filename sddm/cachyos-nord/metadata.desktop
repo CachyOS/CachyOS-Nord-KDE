@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=CachyOS Nord
+Description=A simple SDDM theme for CachyOS.
+Screenshot=screenshot.png
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=cachyos-nord
+Theme-API=2.0
