@@ -17,31 +17,33 @@
  *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 
-import QtQuick 2.8
-import QtQuick.Layouts 1.1
-import QtQuick.Controls 2.5
-import org.kde.plasma.core 2.0
+import QtQuick
+import QtQuick.Controls
+import QtQuick.Layouts
+
+import org.kde.plasma.core as PlasmaCore
+import org.kde.plasma.plasma5support as P5Support
 
 ColumnLayout {
     readonly property bool softwareRendering: GraphicsInfo.api === GraphicsInfo.Software
 
     Label {
         text: Qt.formatTime(timeSource.data["Local"]["DateTime"])
-        color: ColorScope.textColor
+        color: PlasmaCore.ColorScope.textColor
         style: softwareRendering ? Text.Outline : Text.Normal
-        styleColor: softwareRendering ? ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
+        styleColor: softwareRendering ? PlasmaCore.ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
         font.pointSize: 34
         Layout.alignment: Qt.AlignHCenter
     }
     Label {
         text: Qt.formatDate(timeSource.data["Local"]["DateTime"], Qt.DefaultLocaleLongDate)
-        color: ColorScope.textColor
+        color: PlasmaCore.ColorScope.textColor
         style: softwareRendering ? Text.Outline : Text.Normal
-        styleColor: softwareRendering ? ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
+        styleColor: softwareRendering ? PlasmaCore.ColorScope.backgroundColor : "transparent" //no outline, doesn't matter
         font.pointSize: 17
         Layout.alignment: Qt.AlignHCenter
     }
-    DataSource {
+    P5Support.DataSource {
         id: timeSource
         engine: "time"
         connectedSources: ["Local"]

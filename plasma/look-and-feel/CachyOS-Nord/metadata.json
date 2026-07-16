@@ -47,7 +47,7 @@
                 "Name[zh_TW]": "CachyOS VDG 視覺設計組"
             }
         ],
-        "Category": "Global Themes (Plasma 6)",
+        "Category": "Global Themes",
         "Description": "CachyOS Nord by the Dharam Dhurandhar",
         "Description[ar]": "نسيم داكن من من مجموعة تصميم كِيدِي",
         "Description[az]": "CachyOS VDG tərəfindən Nord",
@@ -96,7 +96,7 @@
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
-        "Version": "2.0",
+        "Version": "2.1.0",
         "Website": "https://cachyos.org/"
     },
     "X-KPackage-Dependencies": [ ]

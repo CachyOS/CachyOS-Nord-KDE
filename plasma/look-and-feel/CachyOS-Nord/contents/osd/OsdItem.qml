@@ -15,11 +15,11 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-import QtQuick 2.0
-import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.components 2.0 as PlasmaComponents
-import org.kde.plasma.extras 2.0 as PlasmaExtra
-import QtQuick.Window 2.2
+import QtQuick
+import org.kde.plasma.core as PlasmaCore
+import org.kde.plasma.components as PlasmaComponents
+import org.kde.plasma.extras as PlasmaExtra
+import QtQuick.Window
 
 Item {
     property QtObject rootItem
@@ -60,8 +60,8 @@ Item {
         }
 
         visible: rootItem.showingProgress
-        minimumValue: 0
-        maximumValue: 100
+        from: 0
+        to: 100
 
         value: Number(rootItem.osdValue)
     }
