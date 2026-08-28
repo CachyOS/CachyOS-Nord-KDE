@@ -325,7 +325,7 @@
      x="-344.00003"
      y="-199.99986"
      width="18"
-     height="1.9999999"
+     height="2"
      style="fill:#4e9a06;stroke-width:1.09544516" />
   <rect
      id="south-focus-hint-left-margin"
@@ -333,14 +333,14 @@
      x="-312.00003"
      y="-199.99986"
      width="18"
-     height="1.9999999"
+     height="2"
      style="fill:#4e9a06;stroke-width:1.09544516" />
   <rect
      id="south-focus-hint-bottom-margin"
      transform="scale(-1)"
      x="-320.00003"
      y="-220.99986"
-     width="1.9999999"
+     width="2"
      height="12"
      style="fill:#4e9a06;stroke-width:0.77459669" />
   <rect
@@ -348,7 +348,7 @@
      transform="scale(-1)"
      x="-320.00003"
      y="-188.99986"
-     width="1.9999999"
+     width="2"
      height="12"
      style="fill:#4e9a06;stroke-width:1.09544516" />
   <g
@@ -452,22 +452,22 @@
      x="-263.00003"
      y="-147.99986"
      width="12"
-     height="1.9999999"
+     height="2"
      style="fill:#4e9a06;stroke-width:0.89442724" />
   <rect
      id="west-focus-hint-left-margin"
      transform="scale(-1)"
      x="-225.00005"
      y="-147.99986"
-     width="11.999985"
-     height="1.9999999"
+     width="12"
+     height="2"
      style="fill:#4e9a06;stroke-width:0.89442664" />
   <rect
      id="west-focus-hint-bottom-margin"
      transform="scale(-1)"
      x="-239.00005"
      y="-168.99986"
-     width="1.9999999"
+     width="2"
      height="12"
      style="fill:#4e9a06;stroke-width:0.77459669" />
   <rect
@@ -475,7 +475,7 @@
      transform="scale(-1)"
      x="-239.00005"
      y="-136.99986"
-     width="1.9999999"
+     width="2"
      height="12"
      style="fill:#4e9a06;stroke-width:1.09544516" />
   <g
@@ -579,7 +579,7 @@
      x="-427.00003"
      y="-145.99998"
      width="12"
-     height="1.9999999"
+     height="2"
      style="fill:#4e9a06;stroke-width:0.89442724" />
   <rect
      id="east-focus-hint-left-margin"
@@ -587,14 +587,14 @@
      x="-389.00003"
      y="-145.99998"
      width="12"
-     height="1.9999999"
+     height="2"
      style="fill:#4e9a06;stroke-width:0.89442724" />
   <rect
      id="east-focus-hint-bottom-margin"
      transform="scale(-1)"
      x="-403.00003"
      y="-166.99998"
-     width="1.9999999"
+     width="2"
      height="12"
      style="fill:#4e9a06;stroke-width:0.77459669" />
   <rect
@@ -602,7 +602,7 @@
      transform="scale(-1)"
      x="-403.00003"
      y="-134.99998"
-     width="1.9999999"
+     width="2"
      height="12"
      style="fill:#4e9a06;stroke-width:1.09544516" />
 </svg>
