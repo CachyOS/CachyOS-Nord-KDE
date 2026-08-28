@@ -698,7 +698,7 @@
        style="color:#eff0f1;opacity:0.807852;fill:#1e2233;fill-opacity:1" />
   </g>
   <rect
-     height="23.999987"
+     height="24"
      width="4"
      y="5.0000043"
      x="36"
@@ -745,14 +745,14 @@
        id="rect215" />
   </g>
   <rect
-     height="24.000015"
+     height="24"
      width="4"
      y="4.999989"
      x="163"
      id="shadow-hint-top-margin"
      style="fill:#ff00ff;stroke-width:1.41421402" />
   <rect
-     height="23.999985"
+     height="24"
      width="4"
      y="49.000008"
      x="163"

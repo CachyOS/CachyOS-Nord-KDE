@@ -308,20 +308,20 @@
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.7070992"
      id="hint-top-margin"
      width="4"
-     height="2.9999487"
+     height="3"
      x="64"
      y="6.0000515" />
   <rect
      y="47"
      x="64"
-     height="3.0000477"
+     height="3"
      width="4"
      id="hint-bottom-margin"
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70711386" />
   <rect
      y="-88.000015"
      x="26.000051"
-     height="3.0000153"
+     height="3"
      width="4"
      id="hint-right-margin"
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70710778"
@@ -374,14 +374,14 @@
      style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.41420949"
      id="shadow-hint-bottom-margin"
      width="4"
-     height="11.999977"
+     height="12"
      x="64"
      y="50.00005" />
   <rect
      transform="rotate(90)"
      style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.41421628"
      id="shadow-hint-right-margin"
-     width="3.9999769"
+     width="4"
      height="12"
      x="26.000051"
      y="-100" />
@@ -390,7 +390,7 @@
      y="-44"
      x="26.000051"
      height="12"
-     width="4.0000229"
+     width="4"
      id="shadow-hint-left-margin"
      style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.41421354" />
   <g

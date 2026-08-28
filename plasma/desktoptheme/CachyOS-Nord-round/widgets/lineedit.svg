@@ -843,14 +843,14 @@
   <rect
      style="fill:#9a06ff;stroke-width:0.31622773"
      height="0.1"
-     width="1.9999999"
+     width="2"
      y="56.900002"
      x="74"
      id="focus-hint-top-margin" />
   <rect
      style="fill:#9a06ff;stroke-width:0.22360681"
      height="0.1"
-     width="1.9999999"
+     width="2"
      y="106"
      x="-84.099998"
      transform="rotate(-90)"
@@ -858,7 +858,7 @@
   <rect
      style="fill:#9a06ff;stroke-width:0.2236068"
      height="0.1"
-     width="1.9999999"
+     width="2"
      y="44"
      x="-84.099998"
      transform="rotate(-90)"
@@ -874,27 +874,27 @@
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="base-hint-top-margin"
      width="2"
-     height="6.0000038"
+     height="6"
      x="75"
      y="-13" />
   <rect
      y="11"
      x="44"
-     height="1.9999999"
+     height="2"
      width="6"
      id="base-hint-left-margin"
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <rect
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="base-hint-right-margin"
-     width="5.9999914"
+     width="6"
      height="2"
      x="100"
      y="11" />
   <rect
      y="31"
      x="75"
-     height="6.0000062"
+     height="6"
      width="2"
      id="base-hint-bottom-margin"
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
